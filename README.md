@@ -16,8 +16,8 @@ The images are available directly from [phenompeople organization] (https://hub.
 [![Docker Build Status](https://img.shields.io/docker/build/phenompeople/thumbor.svg?style=plastic)](https://hub.docker.com/r/phenompeople/thumbor/)
 [![Python Docker Pulls](https://img.shields.io/docker/pulls/phenompeople/thumbor.svg?style=plastic)](https://hub.docker.com/r/phenompeople/thumbor/)
 
-* **`latest`				([6.7.0/Dockerfile](https://github.com/phenompeople/thumbor/src/master/6.7.0/Dockerfile))**
-* **`6.7.0` 				([6.7.0/Dockerfile](https://github.com/phenompeople/thumbor/src/master/6.7.0/Dockerfile))**
+* **`latest`				([6.7.0/Dockerfile](https://github.com/phenompeople/thumbor/blob/master/6.7.0/Dockerfile))**
+* **`6.7.0` 				([6.7.0/Dockerfile](https://github.com/phenompeople/thumbor/blob/master/6.7.0/Dockerfile))**
 
 #### Pre-Requisites
 
